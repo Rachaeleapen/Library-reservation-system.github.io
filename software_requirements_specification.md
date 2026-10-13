@@ -2,7 +2,7 @@
 This is our SRS document. This document defines all the functional and non-functional requirements for our system. we will be updating this as we continue the project.  This is just the source of truth document for what we plan to include in our system. 
 # Functional Requirements
 1. Account Feature
-  1. The system shall allow users to create an account.
+  - The system shall allow users to create an account.
   2. The system shall allow account to email user with a reminder.
   3. 
 2. Reservation System
