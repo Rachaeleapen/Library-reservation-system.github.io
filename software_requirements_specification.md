@@ -15,9 +15,13 @@ This is our SRS document. This document defines all the functional and non-funct
 # Non-Functional Requirements
 1. Account Feature
    - The system shall only allow one user per account.
+   - The system shall require users to authenticate before accessing reservation management features.
+   - The system shall prevent unauthorized modification of room and reservation records.
 2. Reservation System
    - The system shall allow a user to reserve multiple rooms across different dates.
    - The system shall update room availability within five seconds of a reservation change.
 3. Useability
    - The system shall store user data safely.
    - The system shall allow pages to load quickly between tabs.
+   - The system shall provide a user interface that allows users to complete a room reservation without requiring technical knowledge or training.
+
