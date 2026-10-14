@@ -3,7 +3,7 @@ This is our SRS document. This document defines all the functional and non-funct
 # Functional Requirements
 1. Account Feature
    - The system shall allow users to create an account.
-   - The system shall allow account to email user with a reminder.
+   - The system shall allow the account to email the user with a reminder.
    - The system shall allow users to view their upcoming reservations.
 2. Reservation System
    - The system shall allow the user to pick a time slot for the reservation
@@ -20,7 +20,7 @@ This is our SRS document. This document defines all the functional and non-funct
 2. Reservation System
    - The system shall allow a user to reserve multiple rooms across different dates.
    - The system shall update room availability within five seconds of a reservation change.
-3. Useability
+3. Usability
    - The system shall store user data safely.
    - The system shall allow pages to load quickly between tabs.
    - The system shall provide a user interface that allows users to complete a room reservation without requiring technical knowledge or training.
